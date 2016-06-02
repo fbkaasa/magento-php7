@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Driv_PHP7>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends>
+                <Mage_Core/>
+                <Mage_ImportExport/>
+                <Mage_Sales/>
+            </depends>
+        </Driv_PHP7>
+    </modules>
+</config>
